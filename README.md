@@ -1,6 +1,6 @@
 # Poumodoro
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://app.netlify.com/sites/YOUR-SITE-NAME/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/947919f1-ab07-41a4-a494-acb283f777d6/deploy-status)](https://app.netlify.com/sites/poumodoro/deploys)
 
 Poumodoro is a React-based productivity tool that leverages the Pomodoro technique to manage focused work sessions. It features ambient sound control, notifications, and a sleek, responsive design.
 
@@ -63,7 +63,7 @@ npm run build
 
 Poumodoro is automatically deployed via [Netlify](https://www.netlify.com/).
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://app.netlify.com/sites/YOUR-SITE-NAME/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/947919f1-ab07-41a4-a494-acb283f777d6/deploy-status)](https://app.netlify.com/sites/poumodoro/deploys)
 
 ## License
 
